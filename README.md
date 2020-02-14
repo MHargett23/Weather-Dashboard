@@ -1,9 +1,9 @@
-# Weather-Dashboard
+# Weather Dashboard
 
 
 deployed application can be found here: https://mhargett23.github.io/Weather-Dashboard/
 
-C:\Users\mello\OneDrive\Pictures\uncc\weatherdashboardss.png
+![Weather Dashboard screen shot](images/demo.png)
 
 After searching for a city, the following information is displayed:
 
