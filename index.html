@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Dashboard</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="./assets/css/style.css">
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+ <script src ="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js"></script>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row bg-dark text-light text-center">
+
+            <h1 class="mx-auto col">Weather Dashboard</h1>
+        </div>
+    </div>
+    <div class="row h-100">
+        <div class="col-sm-3 bg-secondary bg-secondary ">
+            <div class="input-group mb-3">
+                <input type="text" class="form-control" id="cityName" aria-describedby="basic-addon2">
+                <div class="input-group-append">
+                    <span class="input-group-text btn" id="citySearch">search</span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-7" id="main">
+
+        </div>
+    </div>
+    <script src="./assets/js/script.js"></script>
+</body>
+
+</html>
