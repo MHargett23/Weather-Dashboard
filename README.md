@@ -3,7 +3,7 @@
 
 deployed application can be found here: https://mhargett23.github.io/Weather-Dashboard/
 
-![Weather Dashboard screen shot](images/demo.png)
+![Weather Dashboard screen shot](images/weatherdashboardss.png)
 
 After searching for a city, the following information is displayed:
 
