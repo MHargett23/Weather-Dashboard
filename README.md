@@ -7,7 +7,7 @@ deployed application can be found here: https://mhargett23.github.io/Weather-Das
 
 After searching for a city, the following information is displayed:
 
-Current temperature
+Current temperature<br>
 Current humidity
 Windspeed
 Application uses icons to represent weather conditions.
